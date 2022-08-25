@@ -82,7 +82,7 @@ composer install
 ```bash
 php artisan migrate:fresh --seed
 ```
-7. Jalankan perintah storage link agar foto dapat diakses
+7. Jalankan perintah storage link agar media dapat diakses
 ```bash
 php artisan storage:link
 ``` 
